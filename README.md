@@ -10,4 +10,4 @@ Python and SQL focused data analysis learner interested in building predictive m
 
 ## Projects
 See my work here:
-https://github.com/YOURUSERNAME/data-science-portfolio
+https://github.com/RinshaRihana/data-science-portfolio

@@ -1,16 +1,13 @@
-## Hi there 👋
+# Fathima Rinsha Rihana
 
-<!--
-**RinshaRihana/RinshaRihana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Python and SQL focused data analysis learner interested in building predictive models.
 
-Here are some ideas to get you started:
+## Skills
+- Python (pandas, numpy, matplotlib, seaborn, scikit-learn)
+- SQL (joins, filtering, aggregations)
+- Data Cleaning & Analysis
+- Power BI Visualization
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+See my work here:
+https://github.com/YOURUSERNAME/data-science-portfolio
